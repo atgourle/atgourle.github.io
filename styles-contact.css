@@ -73,8 +73,6 @@ html, body {
 	text-align: center;
 	border: 4px dashed white;
 }
-
-   
 #logo {
     margin-bottom: 16px;
 	border: 3px dashed red;
@@ -82,7 +80,7 @@ html, body {
 }
 
 h1 {
-	font-family: pinot-grigio-modern, sans-serif;
+	font-family: forma-djr-deck, sans-serif;
 	font-weight: 300;
 	font-style: normal;
 	font-size: 2em;
@@ -91,7 +89,7 @@ h1 {
 }
 
 h2 {
-	 /* FONT-FAMILY GOES HERE CHOOSE FROM ADOBE FONTS OR GOOGLE FONTS */
+	font-family: corporate-a, serif;
 	font-size: 1.5em;
     line-height: 1.4;
     color: #fff;
@@ -100,7 +98,7 @@ h2 {
 }
 
 p {
-	/* FONT-FAMILY GOES HERE CHOOSE FROM ADOBE FONTS OR GOOGLE FONTS */		
+	font-family: corporate-a, serif;
 	font-size: 1.2em;
     line-height: 1.6;
     color: #fff;
