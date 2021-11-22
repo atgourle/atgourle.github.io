@@ -69,7 +69,7 @@ html, body {
     width: 800px;
 	padding: 2%;
     margin: 100px auto;
- 	background: rgba(112, 214, 245, 0.80); /*this uses opacity of 75% for the background color*/
+ 	background: rgba(112, 214, 245, 80%); /*this uses opacity of 75% for the background color*/
 	text-align: center;
 	border: 
 }
