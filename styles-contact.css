@@ -65,13 +65,6 @@ html, body {
 	background-size:cover;	
 }
 
-.center {
-    width: 800px;
-	padding: 2%;
-    margin: 100px auto;
- 	background: rgba(197, 230, 240, 0.8); /*this uses opacity of 75% for the background color*/
-	text-align: center;
-	border: 
 }
 #logo {
     margin-bottom: 16px;
@@ -84,14 +77,14 @@ h1 {
 	font-style: normal;
 	font-size: 2em;
     margin: 0px auto 10px auto;
-    color: #fff;
+    color: rgb(0, 0, 0);
 }
 
 h2 {
 	font-family: corporate-a, serif;
 	font-size: 1.5em;
     line-height: 1.4;
-    color: #fff;
+    color: rgb(0, 0, 0);
     padding: 0px 0px;
     margin: 0px auto 25px auto;
 }
@@ -100,7 +93,7 @@ p {
 	font-family: corporate-a, serif;
 	font-size: 1.2em;
     line-height: 1.6;
-    color: #fff;
+    color: rgb(0, 0, 0);
 }
 nav{
 	font-family: ivyjournal, serif;
