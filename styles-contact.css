@@ -69,7 +69,6 @@ html, body {
     width: 800px;
 	padding: 2%;
     margin: 100px auto;
- 	background: rgba(169, 223, 233, 90); /*this uses opacity of 75% for the background color*/
 	text-align: center;
 	border: 
 }
@@ -82,9 +81,9 @@ h1 {
 	font-family: forma-djr-deck, sans-serif;
 	font-weight: 300;
 	font-style: normal;
-	font-size: 2em;
+	font-size: 4em;
     margin: 0px auto 10px auto;
-    color: #fff;
+    color: #444;
 	text-align: center;
 }
 
@@ -92,7 +91,7 @@ h2 {
 	font-family: corporate-a, serif;
 	font-size: 1.5em;
     line-height: 1.4;
-    color: #fff;
+    color: #444;
     padding: 0px 0px;
     margin: 0px auto 25px auto;
 	text-align: center;
@@ -102,7 +101,7 @@ p {
 	font-family: corporate-a, serif;
 	font-size: 1.2em;
     line-height: 1.6;
-    color: #fff;
+    color: #444;
 	text-align: center;
 }
 nav{
